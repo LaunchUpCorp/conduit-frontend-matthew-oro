@@ -7,6 +7,6 @@ function HomePage(){
       <Header/>
       <Banner/>
     </div>
-  )
+  );
 }
 export default HomePage;
