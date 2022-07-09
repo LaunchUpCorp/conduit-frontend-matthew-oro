@@ -1,10 +1,9 @@
-import Banner from './Banner'
+import Banner from "./Banner";
 
-function HomePage(){
-  return(
+function HomePage() {
+  return (
     <div>
-      <Header/>
-      <Banner/>
+      <Banner />
     </div>
   );
 }
